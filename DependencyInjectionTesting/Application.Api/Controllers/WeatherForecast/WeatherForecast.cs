@@ -1,6 +1,6 @@
 using System;
 
-namespace Application.Api.Controllers
+namespace Application.Api.Controllers.WeatherForecast
 {
     public class WeatherForecast
     {
